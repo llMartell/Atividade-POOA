@@ -1,8 +1,6 @@
 package principal;
 
 import threads.CriadorDeLixo1;
-import threads.CriadorDeLixo2;
-import threads.CriadorDeLixo3;
 
 public class Main {
 	public static void main(String[] args) {
@@ -15,3 +13,4 @@ public class Main {
 		//Começar a coletar o lixo
 	}
 }
+
